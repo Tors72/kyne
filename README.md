@@ -8,4 +8,9 @@ Recommended for those with decent computers and unable to host a server 24/7 via
 ## 📝 Requirements:
  - A decent computer (depends on how heavy the server is to run)
  - Github repository to store server files
+ - LogMeIn Hamachi (Optional, if port-forwarding is not an option)
+
+
+<img width="998" height="497" alt="image" src="https://github.com/user-attachments/assets/f3a38ea2-962a-4523-b378-e8187297d2fa" />
+Utilizes LogMeIn Hamachi and Git.
 
