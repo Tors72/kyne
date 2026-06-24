@@ -14,3 +14,4 @@ Recommended for those with decent computers and unable to host a server 24/7 via
 <img width="998" height="497" alt="image" src="https://github.com/user-attachments/assets/f3a38ea2-962a-4523-b378-e8187297d2fa" />
 Utilizes LogMeIn Hamachi and Git.
 
+##### Note: Current builds do NOT allow for custom server folder location, it will be added soon. This project was intially aimed to allow my friends to play Stardew Valley with me.
