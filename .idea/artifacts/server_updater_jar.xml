@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="server-updater:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/server_updater_jar</output-path>
+    <root id="archive" name="server-updater.jar">
+      <element id="module-output" name="server-updater" />
+      <element id="dir-copy" path="$PROJECT_DIR$/res" />
+    </root>
+  </artifact>
+</component>
